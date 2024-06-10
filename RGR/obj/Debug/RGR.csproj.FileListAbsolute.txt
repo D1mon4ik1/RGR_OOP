@@ -1,0 +1,12 @@
+D:\Project_C#\RGR\bin\Debug\RGR.exe.config
+D:\Project_C#\RGR\bin\Debug\RGR.exe
+D:\Project_C#\RGR\bin\Debug\RGR.pdb
+D:\Project_C#\RGR\obj\Debug\RGR.csproj.AssemblyReference.cache
+D:\Project_C#\RGR\obj\Debug\RGR.Properties.Resources.resources
+D:\Project_C#\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+D:\Project_C#\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+D:\Project_C#\RGR\obj\Debug\RGR.exe
+D:\Project_C#\RGR\obj\Debug\RGR.pdb
+D:\Project_C#\RGR\obj\Debug\RGR.FormMenu.resources
+D:\Project_C#\RGR\obj\Debug\RGR.FormRules.resources
+D:\Project_C#\RGR\obj\Debug\RGR.FormGame.resources

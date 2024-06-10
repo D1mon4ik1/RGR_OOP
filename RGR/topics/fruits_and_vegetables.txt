@@ -1,0 +1,410 @@
+Полуниця,
+Малина,
+Яблуко,
+Груша,
+Слива,
+Персик,
+Абрикос,
+Мигдаль,
+Горобина,
+Глід,
+Фігове дерево
+Любов
+Кизил (Cornus mas; Cornaceae)
+Карика дуболистна (Carica quercifolia; Caricaceae)
+Інжир (Фіга) (Ficus carica; Moraceae)
+сикомора (Ficus sycomorus; Moraceae)
+Виноград, в сушеному вигляді — родзинки (Vitis spp.; Vitaceae)
+Ююба (Ziziphus zizyphus; Rhamnaceae)
+Шовковиця чорна (Morus nigra; Moraceae)
+Шовковиця біла (Morus alba; Moraceae)
+Шовковиця червона (Morus rubra; Moraceae)
+Гранат (Punica granatum; Lythraceae)
+Фініки (Phoenix dactylifera; Arecaceae)
+Олива (Olea europaea; Oleaceae)
+Плоди ріжкового дерева (Ceratonia siliqua; Leguminosae)
+Плоди суничного дерева (Arbutus unedo; Ericaceae)
+Авокадо (алігаторова груша) (Persea americana; Lauraceae)
+Азиміна (Asimina triloba; Annonaceae)
+Ківі (Актинидія китайська) (Actinidia deliciosa; Actinidiaceae)
+Лонган (Dimocarpus longan; Sapindaceae)
+Лічі (Litchi chinensis; Sapindaceae)
+Маракуя (Passiflora edulis; Passifloraceae)
+Гігантська гранаділа (Passiflora quadrangularis; Passifloraceae)
+Солодка гранаділа (Passiflora ligularis; Passifloraceae)
+Жовта гранаділа (Passiflora laurifolia; Passifloraceae)
+Бананова гранаділа (Passiflora mollissima; Passifloraceae)
+Чулюпа (Passiflora maliformis; Passifloraceae)
+Тамаріло (цифомандра), томатне дерево, Cyphomandra betacea; Solanaceae)
+Фейхоа (Feijoa sellowiana; Myrtaceae)
+Угні Моліни (Ugni molinae; Myrtaceae)
+Мірика (Myrica rubra; Myricaceae)
+Хурма (Diospyros kaki; Ebenaceae)
+Кудранія, (Cudrania tricuspidata; Moraceae)
+Наранхіла (Solanum quitoense; Solanaceae)
+Кокона (Solanum sessiliflorum; Solanaceae)
+Пепіно (Solanum muricatum; Solanaceae)
+Лукума (Pouteria lucuma; Sapotaceae)
+Сереноа (Serenoa repens; Arecaceae)
+Лардізабала (Lardizabala biternata; Lardizabalaceae)
+Африканський вишневий апельсин (Citropsis schweinfurthii; Rutaceae)
+Авара (Astrocaryum vulgare; Arecaceae)
+Асаї (Euterpe oleracea; Arecaceae)
+Акі (він же Бліг смачний,Blighia sapida; Sapindaceae)
+Барбадоська вишня (вона ж Черешня ацерола,Malpighia glabra L.; Malpighiaceae)
+Нансі (Byrsonima crassifolia; Malpighiaceae)
+Ямайська вишня (Muntingia calabura; Muntingiaceae)
+Плоди хлібного дерева (Artocarpus altilis; Moraceae)
+Джекфрут (він же nangka,Artocarpus heterophyllus; Moraceae)
+Чемпедак (Artocarpus champeden; Moraceae)
+Маранг (Artocarpus odoratissima; Moraceae)
+Мавпяче хлібне дерево (він жеMonkey Jack,Artocarpus lakoocha; Moraceae)
+Kwai Muk (Artocarpus hypargyraeus; Moraceae)
+Капулін (Prunus salicifolia; Rosaceae)
+Майсурська малина (Rubus niveus; Rosaceae)
+Мора (Rubus glaucus; Rosaceae)
+Ліканія (Licania platypus; Chrysobalanaceae)
+Ікако (Chrysobalanus icaco; Chrysobalanaceae)
+Кетембілла (Dovyalis hebecarpa; Salicaceae)
+Кафрська слива (Dovyalis caffra; Salicaceae)
+Карісса великоплідна (Carissa macrocarpa; Apocynaceae)
+Каранда (Carissa congesta; Apocynaceae)
+Карамбола (Averrhoa carambola; Oxalidaceae)
+Білімбі (Averrhoa bilimbi; Oxalidaceae)
+Кокос (Cocos spp.; Arecaceae)
+Банан (Musa spp.; Musaceae)
+Плоди атласного дерева (він жехрізофіллум олівковідний,Chrysophyllum oliviforme; Sapotaceae)
+Дуріан (Durio spp.; Malvaceae)
+Гуарана (Paullinia cupana; Sapindaceae)
+Гуава (Psidium guajava; Myrtaceae)
+Сунична гуава (Psidium littorale; Myrtaceae)
+Кеппел (Stelechocarpus burakol; Annonaceae)
+Лангсат (він же Лансіум,Lansium domesticum; Meliaceae)
+Сантолі (Sandoricum koetjape; Meliaceae)
+Маболо (Diospyros blancoi; Ebenaceae)
+Чорна сапоте (Diospyros digyna; Ebenaceae)
+Саподілла (вона ж Сапотовое дерево,Achras/Manilkara zapota; Sapotaceae)
+Мармеладний плід (Pouteria sapota; Sapotaceae)
+Зоряне яблуко (Chrysophyllum cainito; Sapotaceae)
+Каністел (Pouteria campechiana; Sapotaceae)
+Абіу (Pouteria caimito; Sapotaceae)
+Мамончило (він же Лайм іспанський та Мелікоккус двупарний,Melicoccus bijugatus; Sapindaceae)
+Манго індійське (Mangifera indica; Anacardiaceae)
+Кеш'ю (Anacardium occidentale; Anacardiaceae)
+Пурпуровий момбін (Spondias purpurea; Anacardiaceae)
+Жовтий момбін (Spondias mombin; Anacardiaceae)
+Амбарелла (Spondias dulcis; Anacardiaceae)
+Бразильська слива (Spondias tuberosa; Anacardiaceae)
+Маріанська слива (Bouea macrophylla; Anacardiaceae)
+Фальшивий мангостин (Garcinia xanthochymus)
+Мангостин (Garcinia mangostana; Clusiaceae)
+Мамі (Mammea americana; Clusiaceae)
+Бакурі (Platonia insignis; Clusiaceae)
+Lemon Drop Mangosteen (Garcinia madruno; Clusiaceae)
+Button Mangosteen (Garcinia prainiana; Clusiaceae)
+Бакупарі (Garcinia gardneriana; Clusiaceae)
+Папая (Carica papaya; Caricaceae)
+Гірська папая (вона ж Гірська карика,Carica candamarcensis; Caricaceae)
+Бабако (Carica pentagona; Caricaceae)
+Бунхозія срібляста (Bunchosia argentea; Malpighiaceae)
+Ананас справжній (Ananas comosus; Bromeliaceae)
+Монстера приваблива (Monstera deliciosa; Araceae)
+Фізаліс перуанський (Physalis peruviana; Solanaceae)
+Суничний томат (Physalis ixocarpa; Solanaceae)
+Кассабанана (Sicana odorifera; Cucurbitaceae)
+Гак (Momordica cochinchinensis; Cucurbitaceae)
+Архат (Siraitia grosvenorii; Cucurbitaceae)
+Рамбутан (Nephelium lappaceum; Sapindaceae)
+Пуласан (Nephelium mutabile; Sapindaceae)
+Корлан (Nephelium hypoleucum; Sapindaceae)
+Малайське яблуко (Syzygium malaccense; Myrtaceae)
+Рожеве яблуко (Syzygium jambos; Myrtaceae)
+Яванське яблуко (Syzygium samarangense; Myrtaceae)
+Водяне яблуко (Syzygium aqueum; Myrtaceae)
+Джамболан (Syzygium cumini; Myrtaceae)
+Salak (зміїний фрукт) (він же салакка їстівна, Salacca edulis; Arecaceae)
+Цукрове яблуко (Annona squamosa; Annonaceae)
+Сметанне яблуко (воно ж аннона колюча,Annona muricata; Annonaceae)
+Черімоя (Annona cherimola; Annonaceae)
+Кремове яблуко (воно ж аннона сітчаста, Annona reticulata; Annonaceae)
+Ілама (Annona diversifolia; Annonaceae)
+Сонкоя (Annona purpurea; Annonaceae)
+Біріба (Rollinia mucosa; Annonaceae)
+Суринамська вишня (вона ж  Пітанга і Євгенія одноквіткова, Eugenia uniflora; Myrtaceae)
+Джаботікаба (Myrciaria caulifloria; Myrtaceae)
+Ромова ягода (Myrciaria floribunda; Myrtaceae)
+CamuCamu (Myrciaria dubia; Myrtaceae)
+Грумічама (Eugenia brasiliensis; Myrtaceae)
+Пітомба (Eugenia luschnathiana; Myrtaceae)
+Араза (Eugenia stipitata; Myrtaceae)
+Riberry (Syzygium luehmannii; Myrtaceae)
+Blue Lilly Pilly (Syzygium oleosum; Myrtaceae)
+Геніпа (Genipa americana; Rubiaceae)
+Рандія (Randia formosa, Randia fitzalanii; Rubiaceae)
+Алібертія (Alibertia edulis, Alibertia spp.; Rubiaceae)
+Вангерія (Vangueria infausta, Vangueria spp.; Rubiaceae)
+Тамаринд (Tamarindus indica; Leguminosae)
+Манільский тамаринд (Pithecellobium dulce; Leguminosae)
+Кремовий боб (Inga edulis; Leguminosae)
+Ятоба (Hymenaea courbaril; Leguminosae)
+Баїли (Aegle marmelos; Rutaceae)
+Біла сапоте (Casimiroa edulus; Rutaceae)
+Дерев'яне яблуко (Feronia limonia; Rutaceae)
+Вампи (Clausena lansium; Rutaceae)
+Бігнай (Antidesma bunius; Euphorbiaceae)
+Herbert River Cherry (Antidesma dallachyanum; Euphorbiaceae)
+Ембліка (Phyllanthus emblica; Euphorbiaceae)
+Антильський агрус (Phyllanthus acidus; Euphorbiaceae)
+Рамбан (Baccaurea motleyana; Euphorbiaceae)
+Бірманський виноград (Baccaurea sapida; Euphorbiaceae)
+Фалс (Grewia subinaequalis; Malvaceae)
+пітая (він же пітахайятадраконий фрукт,Hylocereus undatus, Hylocereus costaricensis, Hylocereus megalanthus; Cactaceae)
+Барбадоський агрус (Pereskia aculeata; Cactaceae)
+Цабр (Opuntia ficus-indica; Cactaceae)
+Плоди персикової пальми (Bactris gasipaes; Arecaceae)
+Плоди пальмірової пальми (Borassus flabellifer; Arecaceae)
+Купуасу (Theobroma gralorum; Malvaceae)
+Чупа-чупа (Quararibea cordata; Malvaceae)
+Морський виноград (Coccoloba uvifera; Polygonaceae)
+Голубина слива (Coccoloba diversifolia; Polygonaceae)
+Печу (Caryocar brasiliense; Caryocaraceae)
+Слоняче яблуко (Dillenia indica; Dilleniaceae)
+Магічний фрукт (Synsepalum dulcificum; Sapotaceae)
+Марула (Sclerocarya birrea; Anacardiaceae)
+Safou (Dacryodes edulis; Burseraceae)
+Imbe (вона ж Гарцинія Лівінгстона,Garcinia livingstonei; Clusiaceae)
+Чилібуха колюча (він же Мавпячий апельсин (Monkey orange), Strychnos spinosa; Loganiaceae)
+Рамбутан
+Щириця (Amaranthus cruentus)
+Рукола (Eruca sativa)
+Капуста пекінська (Brassica rapa subsp. pekinensis)
+Огірочник (Borago officinalis)
+Broccoli Rabe[en] (Brassica rapa subsp. rapa)
+Брюссельська капуста (Brassica oleracea var. gemmifera)
+Капуста білоголова (Brassica oleracea var. capitata)
+Поросинець коренистий (Hypochaeris radicata)
+Селера (Apium graveolens)
+Celtuce[en] (Lactuca sativa var. asparagina)
+Chaya[en] (Cnidoscolus aconitifolius subsp. aconitifolius)
+Цикорій салатний (Cichórium endívia)
+Листова капуста (Brassica oleracea)
+Портулак городній (Portulaca oleracea)
+Мласкавець салатний (Valerianella locusta)
+Кресс-салат (Lepidium sativum)
+Кульбаба (Taraxacum officinale)
+Кріп (Anethum graveolens)
+Лобода (Chenopodium album)
+Рахіси папороті (Pteridium aquilinum, Athyrium esculentum)
+Fluted pumpkin[en] (Telfairia occidentalis)
+Golden samphire[en] (Inula crithmoides)
+Лобода доброго Генріха (Chenopodium bonus-henricus)
+Подорожник великий (Plantago major)
+Kai-lan[en] (Gai Lan 芥蘭 Brassica rapa)
+Капуста Кейл (Brassica oleracea)
+Комацуна (Brassica rapa)
+Баобаб (Adansonia spp.)
+Lagos bologi[en] (Talinum fruticosum)
+Мласкавець салатний (Valerianella locusta)
+Суріпиця весняна (Barbarea verna)
+Латук (Lactuca sativa)
+Базелла (Basella alba)
+Melokhia[en] (Corchorus olitorius, Corchorus capsularis)
+Miner's Lettuce[en] (Claytonia perfoliata)
+Mizuna greens[en] (Brassica rapa)
+Гірчиця (Sinapis alba)
+Тетрагонія (Tetragonia tetragonioides)
+Спілантес (Acmella oleracea)
+Горох листки/стручки (Pisum sativum)
+Radicchio[en] (Cichorium intybus)
+Критмій морський (Crithmum maritimum)
+Катран морський (Crambe maritima)
+Щавель (Rumex acetosa)
+Шпинат (Spinacia oleracea)
+Мангольд (Beta vulgaris subsp. cicla var. flavescens)
+Tatsoi[en] (Brassica rapa Rosularis group)
+Турнепс зелень (Brassica rapa)
+Водяний крес (Nasturtium officinale)
+Ipomoea aquatica (Ipomoea aquatica)
+Паростки пшениці (Triticum aestivum)
+Авокадо (Persea americana)
+Овочевий перець (Capsicum annuum)
+Момордика (Momordica charantia)
+Чайот (Sechium edule)
+Огірок (Cucumis sativus)
+Coccinia grandis (Coccinia grandis)
+Баклажан (Solanum melongena)
+Люффа (Luffa cylindrica)
+Маслина (Olea europaea)
+Гарбуз (Cucurbita spp.)
+Стручковий перець (Capsicum annuum Grossum)
+Tinda[en] (Praecitrullus fistulosus)
+Фізаліс (Physalis)
+Помідор (Solanum lycopersicum var)
+Ангурія (Cucumis anguria)
+Бенінказа (Benincasa hispida)
+Кабачок (Cucurbita pepo)
+Артишок (Cynara cardunculus, C. scolymus)
+Броколі (Brassica oleracea)
+Каперси (Capparis spinosa)
+Капуста цвітна (Brassica oleracea)
+Квітки цукіні та кабачка (Cucurbita spp.)
+Apios americana (Apios americana)
+Адзукі (Vigna angularis)
+Black-eyed pea[en] (Vigna unguiculata subsp. unguiculata)
+Нут (Cicer arietinum)
+Квасоля звичайна (Phaseolus vulgaris)
+Біб (Vicia faba)
+Спаржева квасоля (Phaseolus vulgaris)
+Гуаровий біб (Cyamopsis tetragonoloba)
+Horse gram[en] (Macrotyloma uniflorum)
+Чина посівна (Lathyrus sativus)
+Сочевиця (Lens culinaris)
+Phaseolus lunatus[en] (Phaseolus lunatus)
+Moth bean[en] (Vigna acontifolia)
+Боби мунг (Vigna radiata)
+Бамія (Abelmoschus esculentus)
+Горох (Pisum sativum)
+Арахіс (Arachis hypogaea)
+Cajanus cajan (Cajanus cajan)
+Ricebean[en] (Vigna umbellata)
+Runner bean[en] (Phaseolus coccineus)
+Горох цукровий (Pisum sativum var. macrocarpon)
+Snow pea[en] (Pisum sativum var. saccharatum)
+Соя (Glycine max)
+Lupinus mutabilis[en] (Lupinus mutabilis)
+Tepary bean[en] (Phaseolus acutifolius)
+Урад (Vigna mungo)
+Mucuna pruriens (Mucuna pruriens)
+Psophocarpus tetragonolobus (Psophocarpus tetragonolobus)
+Yardlong bean[en] (Vigna unguiculata subsp. sesquipedalis)
+Спаржа (Asparagus officinalis)
+Селера (Apium graveolens var. rapaceum)
+Цибуля-різанець (Allium schoenoprasum)
+Elephant Garlic[en] (Allium ampeloprasum var. ampeloprasum)
+Фенхель (Foeniculum vulgare var. dulce)
+Часник (Allium sativum)
+Allium tuberosum (Allium tuberosum)
+Кольрабі (Brassica oleracea var gongylodes)
+Allium ampeloprasum (Allium ampeloprasum var. kurrat)
+Лемонграсс (Cymbopogon citratus)
+Цибуля порей (Allium porrum)
+Nopal[en] (Opuntia ficus-indica)
+Цибуля (Allium cepa)
+Pearl onion[en] (A. ampeloprasum var. sectivum)
+Potato onion[en] (Allium cepa L. var. aggregatum G. Don)
+Цибуля шалот (Allium ascalonicum)
+Цибуля багатоярусна (Allium × proliferum)
+Батун (Allium fistulosum)
+Черемша (Allium ursinum)
+Аракача (Arracacia xanthorrhiza)
+Бамбукові паростки (Bambusa vulgaris and Phyllostachys edulis)
+Буряк столовий (Beta vulgaris subsp. vulgaris)
+Лопух (Arctium lappa)
+Broadleaf arrowhead[en] (Sagittaria latifolia)
+Camassia[en] (Camassia)
+Канна (Canna spp.)
+Морква (Daucus carota)
+Маніок їстівний (Manihot esculenta)
+Chinese artichoke[en] (Stachys affinis)
+Дайкон (Raphanus sativus Longipinnatus group)
+Чина (Lathyrus tuberosus)
+Amorphophallus paeoniifolius[en] (Amorphophallus_paeoniifolius)
+Калган (Alpinia galanga)
+Імбир (Zingiber officinale)
+Петрушка (Petroselinum crispum var. tuberosum)
+Хрін (Armoracia rusticana)
+Топінамбур (Helianthus tuberosus)
+Хікама (Pachyrhizus erosus)
+Tropaeolum tuberosum (Tropaeolum tuberosum)
+Пастернак (Pastinaca sativa)
+Картопля (Solanum tuberosum)
+Psoralea esculenta (Psoralea esculenta)
+Редиска (Raphanus sativus)
+Бруква (Brassica napus Napobrassica group)
+Скорцонера (Scorzonera hispanica)
+Батат (Ipomoea batatas)
+Таро (Colocasia esculenta)
+Ti[en] (Cordyline fruticosa)
+Смикавець їстівний (Cyperus esculentus)
+Куркума (Curcuma longa)
+Турнепс (Brassica campestris L. var. rapa)
+Ульюко бульбоносна (Ullucus tuberosus)
+Васабі (Wasabia japonica)
+Водяний горіх (Trapa natans)
+Eleocharis dulcis (Eleocharis dulcis)
+Якон (Smallanthus sonchifolius)
+Ямс (Dioscorea spp.)[1]
+Горіх
+Пряні рослини
+Мамчур Ф.І. Овочі і фрукти в нашому харчуванні. — Ужгород : Карпати, 1988. — 197 с. — ISBN 5-7757-0050-3.
+↑ Everyday Mysteries: Yam. Library of Congress, United States of America. 2011. Архів оригіналу за 13 квітня 2014. Процитовано 23 квітня 2014.
+Lists of Vegetables [Архівовано 1 березня 2014 у Wayback Machine.]
+Картопля
+Топінамбур
+Батат
+Дайкон
+Морква
+Буряк
+Пастернак
+Редиска
+Редька
+Ріпа
+Селера
+Капуста білоголова
+Капуста червоноголова
+Капуста брюссельська
+Капуста савойська
+Капуста пекінська
+Капуста кольрабі
+Капуста цвітна
+Капуста броколі
+Цибуля ріпчаста
+Цибуля зелена
+Цибуля-батун
+Шніт
+Пора
+Шалот
+Слизун
+Цибуля багатоярусна
+Часник
+Черемша
+Рукола
+Салат
+Шпинат
+Щавель
+Базела
+Базилік
+Кріп
+Коріандр
+Майоран
+М'ята
+Меліса
+Петрушка
+Фенхель
+Хрін
+Чабер
+Артишок
+Ревінь
+Спаржа
+Мангольд
+Портал «Ботаніка»
+Портал «Сільське господарство»
+Портал «Гастрономія»
+Гарбуз
+Кавун
+Диня
+Тиква
+Огірок
+Кабачок
+Патисон
+Помідор
+Баклажан
+Томатільйо
+Перець овочевий
+Перець чилі
+Горох
+Квасоля
+Біб
+Кукурудза цукрова
+Сочевиця звичайна
+Нут
